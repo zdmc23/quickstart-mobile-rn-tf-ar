@@ -17,6 +17,8 @@ module.exports = {
     // Change 2 (add 'bin' to assetExts)
     assetExts: [
       ...defaultAssetExts,
+      'mtl',
+      'obj',
       'bin',
       'txt',
       'jpg'
